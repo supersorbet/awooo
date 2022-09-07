@@ -1,1 +1,1 @@
-# compo111
+# shitty static fork of component 
